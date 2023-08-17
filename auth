@@ -1,0 +1,8 @@
+{
+    "client_id": "u1X787tt5vP5DwrWNzMKOGZStz2NW9DkSt4oUnMF",
+    "response_type": "token",
+    "redirect_uri": "http://localhost:3000/redirectPart1",
+    "apiKey": "n0kzAYR3poAWcyfiucI8SuXRbYEi6vxHNDsRTARIxHQnPQ1uDx",
+    "limitLicense": "true",
+    "ignorePantry": "true"
+}
